@@ -36,9 +36,9 @@ Requirements for packaging and distributing
 
     .. tab:: Windows
 
-        .. code-block:: bash
+        .. code-block:: text
 
-            py -m pip install twine
+           > py -m pip install twine
 
    You'll need this to upload your project :term:`distributions <Distribution
    Package>` to :term:`PyPI <Python Package Index (PyPI)>` (see :ref:`below
